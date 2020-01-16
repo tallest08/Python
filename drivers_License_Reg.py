@@ -3,8 +3,6 @@
    Name: Olumodeji Elijah Ayodeji
    phone: 08070587878
    email: elijah.ayodeji@yahoo.com
-   
-Name of Instructor: Mr Emmanuel Chibuogu
 IsoloNG Drivers Lincense App was written using python Language after attending CodeLagos Tutorial Organised by  the Lagos state Government
 FUNCTIONS of the app:
 -Get the data or information of applicants
